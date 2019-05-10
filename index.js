@@ -81,8 +81,6 @@
 
         setupClickListener('changetype-all', []);
         setupClickListener('changetype-address', ['address']);
-        setupClickListener('changetype-establishment', ['establishment']);
-        setupClickListener('changetype-geocode', ['geocode']);
 
         document.getElementById('use-strict-bounds')
             .addEventListener('click', function() {
