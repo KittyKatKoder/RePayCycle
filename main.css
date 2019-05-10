@@ -1,0 +1,18 @@
+html,
+body,
+header,
+.view.jarallax {
+  height: 100%;
+  min-height: 100%;
+}
+#jarallax-container-0 {
+    clip: rect(0 257px 689px 0);
+    clip: rect(0, 257px, 689px, 0);
+    background-position: 50% 50%; 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-image: url(&quot;https://mdbootstrap.com/img/Photos/Horizontal/Food/full%20page/11.jpg&quot;); 
+    position: fixed; top: 0px; left: 0px; width: 517px; height: 689px; 
+    overflow: hidden; pointer-events: none; 
+    margin-top: 0px; transform: translate3d(0px, 0px, 0px);
+ }
